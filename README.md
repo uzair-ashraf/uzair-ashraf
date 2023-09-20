@@ -1,10 +1,3 @@
-## Hello!
-
-[![Website](https://img.shields.io/website?label=uzairashraf.dev&style=for-the-badge&url=https%3A%2F%2Fuzairashraf.dev/)](https://uzairashraf.dev/)
-
-[![Uzair's github stats](https://github-readme-stats.vercel.app/api?username=uzair-ashraf&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Connect with me
 
 [<img align="left" alt="Portfolio Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin: 12px;"/>](https://uzairashraf.dev/)
